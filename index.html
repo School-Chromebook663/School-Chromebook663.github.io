@@ -23,15 +23,16 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Index</title>
-		<link rel="shortcut icon" type="image/png" href="./sources/favicon.ico">
+		<link rel="shortcut icon" type="image/png" href="./sources/favicon.png">
 		<link href="./sources/styles.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
 		<header>
-			<a href="#" class="funky-site-logo">MY FUNKY SITE</a>
+			<a href="#" class="funky-site-logo">THE INDEX</a>
 			<ul>
 				<li><a href="#" class="active">Index</a></li>
 				<li><a href="./pages/blog.html">Blog</a></li>
+				<li><a href="./pages/community.html">Community</a></li>
 				<li><a href="./pages/games.html">Games</a></li>
 				<li><a href="./pages/projects.html">Projects</a></li>
 				<li><a href="./pages/extra.html">Other</a></li>
@@ -39,25 +40,40 @@
 		</header>
 		<section>
 			<img src="./sources/images/sunnySky.png" id="sky">
-			<h2 id="giga-text" class="giga-text">Index</h2>
-			<img src="./sources/images/sunnyGround.png" id="ground">
+			<img src="./sources/images/sunnyGround.gif" id="ground">
+			<div class="funky-title">
+				<h2 id="funky-title-small" class="funky-title-small">Welcome to the</h2>
+				<h2 id="funky-title-large" class="funky-title-large">Index!</h2>
+			</div>
 		</section>
 		<div class="main-body" id="main-body">
 			<div class="two-column-section">
-				<h2>Welcome to my Site:</h2>
-				<p>Hello there, random Github user or Corey. Welcome to my site.</p>
-				<p>Click any of the links above to check out:</p>
-				<ul>
-					<li><a>Placeholder</a></li>
-					<li><a>Another Placeholder</a></li>
-					<li><a>Even More Placeholders</a></li>
-					<li><a>& Also Placeholder</a></li>
-				</ul>
+				<h2>Hello There:</h2>
+				<p>Welcome to the Index, a collection of all my past projects I've worked on, things I've seen, images I made, and other stuff that I thought would go nicely here.</p>
+				<br>
+				<p>Click on any of the categories on the top right of the page to look around.</p>
 			</div>
 			<div class="two-column-section">
-				<p>Weh</p>
+				<img class="squish" src="./sources/images/rat.png">
+				<p class="image-subtitle">A image of a rat I found on Google.</p>
 			</div>
 		</div>
+		<script>
+			let sky = document.getElementById('sky');
+			let ground = document.getElementById('ground');
+			let funky_text_small = document.getElementById('funky-title-small');
+			let funky_text_large = document.getElementById('funky-title-large');
+			let header = document.querySelector('header');
+
+			window.addEventListener('scroll', function(){
+				let value = window.scrollY;
+				sky.style.top = value * 0.5 + 'px';
+				ground.style.top = value * 0.2 + 'px';
+				funky_text_small.style.marginTop = value * -0.1 + 'px';
+				funky_text_large.style.marginTop = value * -0.125 + 'px';
+				header.style.top = value + 'px';
+			})
+		</script>
 		<footer>
 			<a>Why are you even lookin' down here?</a>
 		</footer>
