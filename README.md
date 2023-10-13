@@ -1,2 +1,10 @@
-# My Site: Info
-This is my site where I mess around with random things and projects and such, so don't expect much from here.
+# salutations, random people
+i make a funky website with stuff to mess around with cus
+
+## we got
+- bad game mods
+- _rats_
+- a restraining order
+- and much M̶̧̡̨̢̡̢̛̛̼̪͎̥̬͙͙͖̣̤̜̭̘̼̰͚̫̮̳͓̝̳̥̣̮͇͔͖̪̼̣͙̯͓͉͎͉̻̣̣͉̳̤͙̉̌̆̄͗̅͌̋̆́́̒̃͆̓̉̑̎̈́͑̅̄͊̒͆̆͑̂̇̌͊̂̿̇̎̿̐̅̅̈́̈́̑̈̐̏͘̕̚͜͝͠͝͠͝͠ͅǪ̵̧̨̹͎̖͎̘̫̭̦̻̰̫͚̲̹͍̣̯̯̬̗͇̼̤͈̫̱̲̝͕̘͓̩̮̠̳̮̹̜͚͇̗̮̪̫̼́̑̓̅͌̊̂͊̿̐̀́̈́̋̽̏̐͑͑͆͗̄̓͌͛̾̊̅́̑͒̊̕͜͜͝R̷̢̨̨̢̛̯̥͓̹̞͚͈̦͚̻̣̬͔͓̞͙͔̻͚̱͍̲͎̥͙̠̱͕̥̗͇̗͈̝̭͑͛̏̽̏̀̓̈͆̇̍̅̉̒̄̌͛͋̓̎͑͆͗̚͘̕̕͠͠͠E̸̞̫̻̦̦̞͇̠̬̝͉̙͍̭̝̱̝̱̫̫͆̉̓̈́̾͛̎̓̈́̆͋̐́̿̔́͊̂͊̈́́̈̋̂̅̄̈́͋̏̌̈͗̇͗̄̔̌͛͐͑̀̑̉͐͛̕̕̕͜͜͝͝ͅ
+
+~~yeah~~
