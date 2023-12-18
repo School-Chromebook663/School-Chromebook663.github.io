@@ -1,0 +1,37 @@
+@import url("./fonts.css");
+
+* { /* Base Resources & Properties */
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Dosis", sans-serif;
+	scroll-behavior: smooth;
+}
+body {
+	min-height: 100vh;
+	overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+#main-body {
+    margin: 10%;
+    text-align: center;
+}
+#main-body h2 {
+    font-family: "Indie Flower";
+    font-size: 60px;
+    font-weight: 100;
+}
+#main-body #secret, #main-body #secreter {
+    margin-top: 10px;
+    color: #ffffff;
+}
+#main-body #secreter {
+    scale: 75%;
+}
+footer {
+    font-family: "Indie Flower";
+    position: absolute;
+    bottom: 2.5%;
+    right: 2.5%;
+}
